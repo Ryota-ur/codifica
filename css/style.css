@@ -282,7 +282,7 @@ html {
 }
 
 .swiper-button-prev {
-  background: url(/img/arrow-left.png) no-repeat center center/contain;
+  background: url(../img/arrow-left.png) no-repeat center center/contain;
   width: clamp(4rem, 5vw, 6rem);
   height: clamp(4rem, 5vw, 6rem);
 }
@@ -291,7 +291,7 @@ html {
 }
 
 .swiper-button-next {
-  background: url(/img/arrow-right.png) no-repeat center center/contain;
+  background: url(../img/arrow-right.png) no-repeat center center/contain;
   width: clamp(4rem, 5vw, 6rem);
   height: clamp(4rem, 5vw, 6rem);
 }
@@ -582,7 +582,7 @@ html {
 }
 
 .about-bg {
-  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(/img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg) no-repeat center center/cover;
+  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(../img/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg) no-repeat center center/cover;
   width: clamp(80%, 80vw, 100%);
   height: 25rem;
   top: 10rem;
@@ -669,7 +669,7 @@ html {
 .primary-btn::after {
   position: absolute;
   content: "";
-  background: url(/img/icon-arrow-blue-btn.png) no-repeat center center/contain;
+  background: url(../img/icon-arrow-blue-btn.png) no-repeat center center/contain;
   width: 2rem;
   height: 1.6rem;
   right: 2rem;
@@ -678,7 +678,7 @@ html {
   transition: 0.3s;
 }
 .primary-btn:hover::after {
-  background: url(/img/arrow-right-white.png) no-repeat center center/contain;
+  background: url(../img/arrow-right-white.png) no-repeat center center/contain;
   right: 1rem;
 }
 
